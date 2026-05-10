@@ -1,4 +1,4 @@
-# Hospital Bulk Processing Service
+# Paribus Assignment
 
 A Flask microservice that accepts CSV uploads and bulk-creates hospitals in the [Hospital Directory API](https://hospital-directory.onrender.com/docs), using concurrent HTTP requests for performance.
 
